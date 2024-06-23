@@ -1,0 +1,22 @@
+h1 {
+    margin-left: 280px;
+}
+
+img {
+    height: 350px;
+    width: auto;
+    margin-left: 70px;
+    border-radius: 10px;
+}
+
+div {
+    box-sizing: border-box;
+    width: 620px;
+    background-color: rgb(231, 231, 231);
+    font-size: 18px;
+    padding: 18px;
+    padding-left: 200px;
+    border-radius: 10px;
+    margin: 40px;
+    margin-left: 70px;
+}
